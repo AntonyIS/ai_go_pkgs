@@ -15,7 +15,7 @@ func (ge GoEngineer) PrintDetails() {
 	fmt.Println()
 }
 
-func PrintGoEnginners(ge []GoEngineer) {
+func PrintGoEnginners() {
 	goEngineers := []GoEngineer{
 		{
 			name:    "Antony Injila",
