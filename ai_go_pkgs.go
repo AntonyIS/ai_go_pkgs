@@ -2,6 +2,6 @@ package ai_go_pkgs
 
 import "fmt"
 
-func sample() {
+func Sample() {
 	fmt.Println("Hello world")
 }
